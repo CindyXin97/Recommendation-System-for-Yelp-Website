@@ -1,5 +1,5 @@
 # What Urban Factors Affect Success of a Restaurant 
-# Designing the User-based Recommendation System and Restaurants-based System  
+Side Projects: Designing the User-based Recommendation System and Restaurants-based System  
 
 ## Group Members
 - Zheyuan Zhang (zz2498@nyu.edu)
