@@ -2,10 +2,10 @@
 Side Projects: Designing the User-based Recommendation System and Restaurants-based System  
 
 ## Group Members
+- Di Xin (dx489@nyu.edu)
 - Zheyuan Zhang (zz2498@nyu.edu)
 - Yutong Zhu (yz6080@nyu.edu)
 - Guilherme Louzada (gl1082@nyu.edu)
-- Di Xin (yli2@skidmore.edu)
 - Aparna Bhutani (ab8473@nyu.edu)
 
 
